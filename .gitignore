@@ -7,6 +7,9 @@
 *.swp
 Thumbs.db
 
+# Capistrano
+log/capistrano.log
+
 # Credentials, uploads and cache
 wp-config.php
 wp-content/uploads/
